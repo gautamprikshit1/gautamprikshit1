@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gautamprikshit.
-- Rust orgs please hire me 🥺
+- 🥺 Rust orgs please hire me.
 - 👀 I’m interested in golang, rust.
-- 🌱 I’m currently learning gin and gorm
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Go and rust projects.
 - 📫 Reach me gautamprikshit1@gmail.com
 
